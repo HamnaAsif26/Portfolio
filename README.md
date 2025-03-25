@@ -44,4 +44,4 @@ This is a personal portfolio website showcasing my skills, projects, and experie
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hamnaasif/portfolio.git
+   git clone https://github.com/HamnaAsif26/Portfolio.git
